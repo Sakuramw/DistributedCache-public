@@ -1,4 +1,4 @@
-# DistributedCache-open
+# DistributedCache-public
 
 ### 一个分布式缓存
 
